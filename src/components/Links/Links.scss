@@ -1,0 +1,19 @@
+.Links {
+  margin-top: 2rem;
+}
+
+.Links__line1 {
+  list-style-type: none;
+  display: flex;
+  margin-bottom: 2rem;
+}
+.Links__line2 {
+  text-align: center;
+}
+
+.Links__borderLine {
+  margin: 0 1rem;
+  margin-top: 2rem;
+  width: 100%;
+  border-bottom: 1px solid #cdcdcd;
+}
